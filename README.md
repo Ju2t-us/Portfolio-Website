@@ -25,3 +25,4 @@ Then you will rename it
 ← assets
 Drag in assets, like images or music, to add them to your project
 
+This text can be anything, even just the word “testing.” Just remember that we’re going to push this change to GitHub, so it shouldn’t be private or embarrassing. 🙈
